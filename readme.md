@@ -1,7 +1,7 @@
 # New Nintendo 64 game selector
 
 
-###User story:
+### User story:
 
 As an employee handling our finance, I want to buy a new N64 game to which the most people are interested. In our weekly team meeting, I open the voting application and ask all employees one-by-one which game they like most. They have to pick from a list of games I printed out. I cast the votes by clicking/tapping on the games on my screen.
 
