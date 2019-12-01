@@ -1,0 +1,202 @@
+[
+  {
+    "id": 26845,
+    "category": 0,
+    "cover": {
+      "id": 76781,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 26845,
+      "height": 847,
+      "image_id": "co1n8t",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1n8t.jpg",
+      "width": 635
+    },
+    "name": "Fire Emblem: Three Houses",
+    "platforms": [
+      130
+    ],
+    "popularity": 1356.596955846774
+  },
+  {
+    "id": 115278,
+    "category": 0,
+    "cover": {
+      "id": 73933,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 115278,
+      "height": 800,
+      "image_id": "co1l1p",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1l1p.jpg",
+      "width": 600
+    },
+    "name": "Rune Factory 4 Special",
+    "platforms": [
+      130
+    ],
+    "popularity": 879.1282743163038
+  },
+  {
+    "id": 114286,
+    "category": 0,
+    "cover": {
+      "id": 77083,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 114286,
+      "height": 800,
+      "image_id": "co1nh7",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nh7.jpg",
+      "width": 600
+    },
+    "name": "Madden NFL 20",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "popularity": 714.6170966754357
+  },
+  {
+    "id": 18225,
+    "category": 0,
+    "cover": {
+      "id": 74152,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 18225,
+      "height": 864,
+      "image_id": "co1l7s",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1l7s.jpg",
+      "width": 648
+    },
+    "name": "The Sinking City",
+    "platforms": [
+      6,
+      48,
+      49,
+      130
+    ],
+    "popularity": 612.2125840894497
+  },
+  {
+    "id": 1877,
+    "category": 0,
+    "cover": {
+      "id": 75012,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 1877,
+      "height": 640,
+      "image_id": "co1lvo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1lvo.jpg",
+      "width": 480
+    },
+    "name": "Cyberpunk 2077",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "popularity": 598.4361922617386
+  },
+  {
+    "id": 22422,
+    "category": 0,
+    "cover": {
+      "id": 16642,
+      "game": 22422,
+      "height": 477,
+      "image_id": "hq3eh6p2iwdoqft9xp56",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/hq3eh6p2iwdoqft9xp56.jpg",
+      "width": 320
+    },
+    "name": "Sexy Beach 3",
+    "platforms": [
+      6
+    ],
+    "popularity": 438.1055723899314
+  },
+  {
+    "id": 96217,
+    "category": 0,
+    "cover": {
+      "id": 72919,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 96217,
+      "height": 2000,
+      "image_id": "co1k9j",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1k9j.jpg",
+      "width": 1500
+    },
+    "name": "Eternity: The Last Unicorn",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "popularity": 391.7912761061273
+  },
+  {
+    "id": 114455,
+    "category": 0,
+    "cover": {
+      "id": 71287,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 114455,
+      "height": 1600,
+      "image_id": "co1j07",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1j07.jpg",
+      "width": 1200
+    },
+    "name": "Pacify",
+    "platforms": [
+      6,
+      14
+    ],
+    "popularity": 378.6573711898247
+  },
+  {
+    "id": 36198,
+    "category": 0,
+    "cover": {
+      "id": 69828,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 36198,
+      "height": 800,
+      "image_id": "co1hvo",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hvo.jpg",
+      "width": 600
+    },
+    "name": "Children of Morta",
+    "platforms": [
+      6,
+      14,
+      48,
+      49,
+      130
+    ],
+    "popularity": 369.4405958099632
+  },
+  {
+    "id": 22472,
+    "category": 0,
+    "cover": {
+      "id": 44628,
+      "game": 22472,
+      "height": 500,
+      "image_id": "sosfbe6zqn1lipgfhxct",
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/sosfbe6zqn1lipgfhxct.jpg",
+      "width": 354
+    },
+    "name": "Artificial Academy 2",
+    "platforms": [
+      6
+    ],
+    "popularity": 368.058079502984
+  }
+]
